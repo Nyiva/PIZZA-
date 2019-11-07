@@ -17,5 +17,18 @@ body{
 
 }
 select{
-    margin-top: 15%;
+    margin-top: -20%;
+    box-shadow: none;
+    border: 0 !important;
+    background: rgb(3, 29, 54);
+    background-image: none;
 }
+select::-ms-expand {
+    display: none;
+}
+select {
+    flex: 1;
+    padding: 0 .5em;
+    color: rgb(161, 13, 117);
+    cursor: pointer;
+  }
