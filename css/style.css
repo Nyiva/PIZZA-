@@ -1,0 +1,21 @@
+body{
+    background-image: url("../images/My\ Post\ \(1\).png");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    background-color: firebrick;
+}
+#pizza1{
+    color:magenta;
+    margin-top: 15%;
+}
+#pizza2{
+    background-image: url("https://pm1.narvii.com/6259/8b09208545aef0e67f7441f4a61dba8c320d125c_hq.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+
+}
+select{
+    margin-top: 15%;
+}
