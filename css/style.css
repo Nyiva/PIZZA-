@@ -1,9 +1,12 @@
 body{
+    color: rgb(8, 128, 233);
     background-image: url("../images/My\ Post\ \(1\).png");
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
-    background-color: firebrick;
+    background-color: rgb(18, 3, 70);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 #pizza1{
     color:magenta;
@@ -31,4 +34,8 @@ select {
     padding: 0 .5em;
     color: rgb(161, 13, 117);
     cursor: pointer;
+    position: relative;
+    display: flex;
+    width: 15em;
+    height: 3em;
   }
