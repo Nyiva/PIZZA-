@@ -68,9 +68,11 @@ select {
   }
 
   .jumbotron{
-      background-color:rgb(5, 5, 53);
-      border-block-color: ;
-      border-block: c;
+      background-color:transparent;
+      
+      border-color:  white;
+      border-style: solid;
+      border-width: 10px;
   }
   #welcome{
       text-align: center;
