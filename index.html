@@ -17,7 +17,7 @@
               <div class="content">
                 
               </div>
-              <div class="heading">
+              <div class="heading" id="welcome" >
                   <strong><h1> bienvenue à la pizza Que Pasa</h1></strong>
                   
               </div>
@@ -46,7 +46,7 @@
                           <br>
                           <img src="https://media.tenor.com/images/797404fe6e17160647ae1642d54db295/tenor.gif" alt="">
                           <h3>Toppings</h3>
-                          <select class=" toppings">
+                          <select class=" toppings" id="form crust">
                             <option label="Olives" value="100">Olives</option>
                             <option label="Cheese" value="50">Cheese</option>
                             <option label="Pepperoni" value="80">Pepperoni</option>
@@ -57,11 +57,13 @@
                           <br>
                           <div id="batman"> 
 
-                            <img src="https://preview.redd.it/3g9hypzpj1131.gif?overlay-align=bottom,left&crop=220:115.183246073,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2qt55.png%3Fs%3Dc758f6d1f43dbbb1665907e1cc3207b09548708e&width=220&height=115.183246073&s=62bb1e2119efa117ed74aca998be5cfdf8c9a2b6" alt="">
+                            <img src="https://i.pinimg.com/originals/2e/98/a8/2e98a8829a6d50f38a28d65fc25fff58.gif" alt="">
                           </div>
+                          <div id="text2">
 
-                          <h3>Crust</h3>
-                          <select class=" crust">
+                            <h3>Crust</h3>
+                          </div>
+                          <select class=" crust" id="form-crust">
                             <option label="Stuffed" value="400">Stuffed</option>
                             <option label="Gluten-Free" value="300">Gluten-Free</option>
                             <option label="Crispy" value="500">Crispy</option>
@@ -71,6 +73,16 @@
                       <div class="text-center mt-5">
                       <button class="btn btn-info order" type="submit">Order</button>
                     </div>
+                    <table class="table mt-5">
+                        <thead>
+                          <tr>
+                            <th scope="col">Pizza size</th>
+                            <th scope="col">Order No.</th>
+                            <th scope="col">Toppings</th>
+                            <th scope="col">Crust</th>
+                            <th scope="col">Total</th>
+                          </tr>
+                        </thead>
                     <div class="additional-buttons">
             <div class="text-center">
               <button class="btn btn-info add-pizza " type="submit">Add Another</button>

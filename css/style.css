@@ -45,3 +45,33 @@ select {
   #services{
       background-color: transparent;
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#form-crust{
+    margin-bottom: 5%;
+}
+  #text2{
+      margin-top: 10%;
+  }
+
+  .jumbotron{
+      background-color:rgb(5, 5, 53);
+      border-block-color: ;
+      border-block: c;
+  }
+  #welcome{
+      text-align: center;
+      margin-top: 5%;
+  }
