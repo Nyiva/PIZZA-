@@ -78,7 +78,10 @@ select {
   #welcome{
       text-align: center;
       margin-top: 15%;
-  }
+      font-family: 'Libre Baskerville', serif;
+      font-family: 'Yeon Sung', cursive;
+      font-family: 'Pattaya', sans-serif;  
+    }
   h3{
       margin-bottom: 60px;
   }
