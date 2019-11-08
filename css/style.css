@@ -42,3 +42,6 @@ select {
     width: 15em;
     height: 3em;
   }
+  #services{
+      background-color: transparent;
+  }
