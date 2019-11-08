@@ -64,6 +64,7 @@ select {
 }
   #text2{
       margin-top: 10%;
+      padding: ;
   }
 
   .jumbotron{
@@ -74,4 +75,7 @@ select {
   #welcome{
       text-align: center;
       margin-top: 15%;
+  }
+  h3{
+      margin-bottom: 60px;
   }
