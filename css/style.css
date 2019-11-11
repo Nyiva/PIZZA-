@@ -3,7 +3,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
-    background-color: rgb(18, 3, 70);
+    background-color: rgba(110, 110, 116, 0.397);
     font-family: 'Libre Baskerville', serif;
     font-family: 'Yeon Sung', cursive;  
     
@@ -18,6 +18,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
+
     
     
 }
@@ -27,8 +28,14 @@ body{
     background-size: cover;
     height: 100vh;
     justify-content: center;
-    text-align: center;
-
+    text-align: right;
+    color: rgb(97, 163, 35);
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Yeon Sung', cursive;
+font-family: 'Pattaya', sans-serif;
+font-family: 'Limelight', cursive;
+font-family: 'Zilla Slab Highlight', cursive;
+font-size: 15px;
 }
 select{
     margin-top: -20%;
