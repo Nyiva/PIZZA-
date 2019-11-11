@@ -17,7 +17,7 @@ body{
 #pizza1{
     color:rgb(201, 22, 22);
     margin-top: 15%;
-    background-image: url("../images/My\ Post\ \(1\).png");
+    background-image: url("https://bit.ly/33DH7Zc");
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
@@ -25,14 +25,14 @@ body{
     
     
 }
-#quepasa{
+#services{
     background-image: url("../images/pizza-de-pepperoni-saboroso-em-um-fundo-concreto-preto_79782-103.jpg");
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
     justify-content: center;
     text-align: right;
-    color: rgb(97, 163, 35);
+    color: rgb(158, 157, 172);
     font-family: 'Libre Baskerville', serif;
 font-family: 'Yeon Sung', cursive;
 font-family: 'Pattaya', sans-serif;
@@ -40,11 +40,14 @@ font-family: 'Limelight', cursive;
 font-family: 'Zilla Slab Highlight', cursive;
 font-size: 15px;
 }
+p{
+    margin-left: 50%;
+}
 select{
     margin-top: -20%;
     box-shadow: none;
     border: 0 !important;
-    background: rgb(3, 29, 54);
+    background: white;
     background-image: none;
 }
 select::-ms-expand {
@@ -53,7 +56,7 @@ select::-ms-expand {
 select {
     flex: 1;
     padding: 0 .5em;
-    color: rgb(124, 106, 99);
+    color: rgb(19, 18, 18);
     cursor: pointer;
     position: relative;
     display: flex;
@@ -103,5 +106,5 @@ select {
       margin-bottom: 60px;
   }
   #table {
-   color: rgb(38, 206, 16);
+   color: rgb(167, 182, 165);
   }
