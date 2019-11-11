@@ -12,10 +12,11 @@ https://github.com/Nyiva/PizzaFest
 -Javascript
 -popper.js
 ## BDD
-<img src="" alt="picture">
-- project is about delani studio design and has one page
+<img src="images/Capture.PNG" alt="picture">
+<img src="images/Capture1.PNG" alt="picture">
+- project is about pizza website and has one page
 - About us explains the function of the website
-- Services shows what services delani offers
+- the menu shows the functions given fot the user to manipulate
 - What we do is a section that allow users to toggle through the functions
 - when it comes to the email the website is responsive and gives a feedback depending on the entry
 

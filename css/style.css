@@ -25,6 +25,10 @@ body{
     
     
 }
+#quepasa{
+    justify-content: center;
+    text-align: center;
+}
 #services{
     background-image: url("../images/pizza-de-pepperoni-saboroso-em-um-fundo-concreto-preto_79782-103.jpg");
     background-attachment: fixed;
@@ -106,5 +110,5 @@ select {
       margin-bottom: 60px;
   }
   #table {
-   color: rgb(167, 182, 165);
+   color: rgb(196, 211, 194);
   }
