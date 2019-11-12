@@ -15,12 +15,14 @@ body{
     padding-left: 42%;
 }
 #pizza1{
-    color:rgb(201, 22, 22);
-    margin-top: 15%;
+    color:rgb(8, 128, 233);
+    margin-top: 3%;
     background-image: url("https://bit.ly/33DH7Zc");
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
+    justify-content: center;
+    text-align: center;
 
     
     
@@ -35,8 +37,8 @@ body{
     background-size: cover;
     height: 100vh;
     justify-content: center;
-    text-align: right;
-    color: rgb(158, 157, 172);
+    text-align: center;
+    color: rgb(114, 114, 119);
     font-family: 'Libre Baskerville', serif;
 font-family: 'Yeon Sung', cursive;
 font-family: 'Pattaya', sans-serif;
@@ -45,7 +47,7 @@ font-family: 'Zilla Slab Highlight', cursive;
 font-size: 15px;
 }
 p{
-    margin-left: 50%;
+    margin-left: 9%;
 }
 select{
     margin-top: -20%;
@@ -85,7 +87,7 @@ select {
 
 
 #form-crust{
-    margin-bottom: 5%;
+    margin-bottom: -2%;
 }
   #text2{
       margin-top: 10%;
@@ -101,7 +103,7 @@ select {
   }
   #welcome{
       text-align: center;
-      margin-top: 15%;
+      margin-top: 18%;
       font-family: 'Libre Baskerville', serif;
       font-family: 'Yeon Sung', cursive;
       font-family: 'Pattaya', sans-serif;  
@@ -110,5 +112,31 @@ select {
       margin-bottom: 60px;
   }
   #table {
-   color: rgb(196, 211, 194);
+   color: rgb(28, 112, 190);
+   font-style: Bold;
+   font-display: ;
+   font-size: 15px;
+  }
+  #food{
+    margin-top: -1%;  
+    image-resolution: 10%;
+      height: 119%;
+      width: 100%;
+  }
+  #QP{
+      height: 8%;
+      width: 8%;
+  }
+  .toppings{
+      margin-bottom:5% ;
+    
+
+  }
+  h3{
+      margin-top: 9%;
+  }
+  #contacts{
+      margin-top: 3%;
+      justify-content: center;
+      margin-left: 40%;
   }
